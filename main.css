@@ -136,7 +136,7 @@ align-items: center;
     display: flex;
 }
 .xxcxcxxcxccx{
-    margin: 50px;
+    margin-top: 50px;
     display: flex;
     gap: 16px;
 justify-content: space-around;
@@ -227,6 +227,7 @@ margin-bottom: 100px;
 
     font-weight: 800;
     font-size: 22px;
+    padding-bottom: 10px;
 
 }
 
@@ -276,6 +277,8 @@ justify-content: space-around;
     margin-bottom: 10px;
     margin-top: 10px;
     display: flex ;
+    align-items: center;
+    gap: 20px;
 }
 .dcdd{
     font-size: 22px;
@@ -304,6 +307,8 @@ justify-content: space-around;
 .xzxc{
     display: flex;
     gap: 10px;
+    padding-bottom: 50px;
+    
    
 }
 
@@ -313,6 +318,7 @@ justify-content: space-around;
     font-weight: 700;
    margin-bottom: 100px;
     margin-top: 100px;
+    padding-top: 50px;
 }
 
 .adwadadaffwevgfd{
@@ -383,8 +389,9 @@ justify-content: space-around;
     font-size: 18px;
     font-weight: 700; 
     margin-top: 100px; 
-    padding-inline: 130px;
     padding-block: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
     border: none;
     border-radius: 10px;
     background-color: #F17228;
@@ -435,7 +442,8 @@ box-shadow: 0px 5px 8px 5px #ffae00;
 
 .sdasadd{
     display: flex;
-     gap: 234px;
+     gap: 150px;
+     margin-bottom: 50px;
 }
 
 .lol5{
@@ -448,7 +456,7 @@ box-shadow: 0px 5px 8px 5px #ffae00;
 
 .adsawfgg{
     display: flex;
-    gap: 116px;
+    gap: 100px;
     padding-top: 63px;
 }
 
@@ -508,4 +516,20 @@ box-shadow: 0px 5px 8px 5px #ffae00;
 
 box-shadow: 0px 5px 8px 1px #DE97003D;
 
+}
+
+.sdasaadsa {
+      font-family: "Rubik", sans-serif;
+}
+.adsawfgg {
+      font-family: "Rubik", sans-serif;
+      padding-bottom: 50px;
+}
+.vddd {
+      font-family: "Rubik", sans-serif;
+      padding-bottom: 50px;
+}
+.xxcxcxxcxccx {
+      font-family: "Rubik", sans-serif;
+      padding-bottom: 50px;
 }
